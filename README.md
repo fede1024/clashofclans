@@ -9,3 +9,5 @@ Requirements:
 * Imagemagick
 * Tesseract (OCR)
 * mpg123
+
+Here is a [video demonstration](https://youtu.be/QDoQaxfE2lU).
